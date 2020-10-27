@@ -1,2 +1,2 @@
 # hello-world
-repository di prova, fatta attraverso il tutoriaò
+repository di prova, fatta attraverso il tutorial
